@@ -20,7 +20,7 @@
 * Loss 계산 시 하위 10% 제거하는 라이브러리 (조교 문의)
 * 다른 모델 - SVM, bigram, XGBoost
 
-## Function
+## 
 
 ### Oversampling
 1. 단순하게 곱하기 n
